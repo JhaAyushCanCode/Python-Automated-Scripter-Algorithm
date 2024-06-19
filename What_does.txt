@@ -1,0 +1,8 @@
+What my main.py file does :
+
+1)  Finds all game directories from /data
+2)  Creates a new /games directory 
+3)  Copies and removes the "game" suffix of all games into the /games directory
+4)  Creates a .json file with the information about the games
+5)  Compiles all of the game code 
+6)  Runs all of the game code.
